@@ -1,11 +1,34 @@
-🔭 I’m currently working on:Comparative research on Dual-Latent and Single-Latent models, applying Logistic Regression, Decision Tree, SVM, and Random Forest to evaluate performance and interpretability.
-🌱 I’m currently learning:Advanced Machine Learning, Deep Learning foundations, Time Series forecasting, and model deployment techniques.
-👯 I’m looking to collaborate on: Statistical modeling, machine learning research, and practical data science projects.
-🤔 I’m looking for help with: Model optimization, hyperparameter tuning, and deployment strategies.
-💬 Ask me about: Statistics, machine learning, predictive modeling, and research methodology.
-📫 How to reach me:ahsanrudra11@gmail.com
-😄 Pronouns:Ahsan
-⚡ Fun fact:I simplify complex statistical and machine learning concepts for easier understanding.
+# 💫 Hi 👋, I'm Ahsan Ahmed
+
+A passionate Data Scientist || Machine Learning Enthusiast || Statistical Researcher from Bangladesh
+
+**Email Me** 👉 ✉️ ahsanrudra11@gmail.com For Collaboration, Projects, or Research Discussion. 😊
+
+---
+
+🔭 **I’m currently working on:**
+Comparative research on Dual-Latent and Single-Latent models, applying Logistic Regression, Decision Tree, SVM, and Random Forest to evaluate performance and interpretability.
+
+🌱 **I’m currently learning:**
+Advanced Machine Learning, Deep Learning, Time Series Forecasting, and model deployment techniques.
+
+👯 **I’m looking to collaborate on:**
+Statistical modeling, ML research, and real-world data science projects.
+
+🤔 **I’m looking for help with:**
+Model optimization, hyperparameter tuning, and deployment strategies.
+
+💬 **Ask me about:**
+Statistics, machine learning, predictive modeling, and research methodology.
+
+📫 **How to reach me:**
+ahsanrudra11@gmail.com
+
+😄 **Pronouns:** Ahsan
+⚡ **Fun fact:**
+I simplify complex ML and statistical concepts for easier understanding.
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ahsan Rudra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahsanrudra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahsanrudra11@gmail.com) 
 
